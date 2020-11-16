@@ -27,7 +27,7 @@ https://watson-visual-recognitions.herokuapp.com/
 It requires Node and NPM to run.
 Clone the project from github.
 
-    $ git clone https://github.com/manvendra22/watson-visual-recognition.git
+    $ git clone https://github.com/karimdeif/watson-visual-recognition.git
     $ cd watson-visual-recognition
     
 #### For running both Frontend & Backend in one shot using concurrently
